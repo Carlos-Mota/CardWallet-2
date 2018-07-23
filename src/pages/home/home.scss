@@ -1,0 +1,17 @@
+// ion-title {
+//   background-color: orange;
+//   float: left;
+// }
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
+.notWhite {
+  background-color: #f8faff;
+}
+
+.toolbar-title-md,
+.toolbar-title-ios {
+  font-size: 3rem;
+  color: #42526d;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  padding-left: 0px;
+}
